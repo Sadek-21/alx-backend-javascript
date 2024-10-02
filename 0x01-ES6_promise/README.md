@@ -1,7 +1,7 @@
 # 0x01. ES6 Promises
 ## Javascript ES6
 
-![ES6 Promises](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/75862d67ca51a042003c.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230726%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230726T184007Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=28e6220f0ea91a257a9da9a974f89e09d0067e3dabbcf4fde5115994f193195e)
+![ES6 Promises](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/75862d67ca51a042003c.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241002%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241002T135317Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9a882563a14245bbccb3310c6a6f859fbc2af3360b3d2fbd81eeadb63578df50)
 
 ## Resources
 Read or watch:
